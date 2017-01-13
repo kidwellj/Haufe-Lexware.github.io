@@ -4,11 +4,12 @@ title: Resources
 permalink: /resources/
 ---
 
-### [API Style Guide](https://github.com/Haufe-Lexware/api-style-guide/blob/master/readme.md)
-A List of rules, best practices, resources and our way of creating REST APIs in the Haufe Group. The style guide addresses API Designers, mostly developers and architects, who want to design an API.
+### Which Kind of Sustainability?
 
-### [Docker Style Guide](https://github.com/Haufe-Lexware/docker-style-guide/blob/master/README.md)
-A set of documents representing mandantory requirements, recommended best practices and informational resources for using Docker in official (public or internal) Haufe products, services or solutions.
+The "Finding Common Ground" project aims to develop new knowledge about collaborations across different kinds of low-carbon and sustainability groups. There are a huge variety of ways to care for the earth: growing food, reducing waste, participating in the sharing economy, protecting animals amd habitats, and many different kinds of groups which combine and emphasise different practices and strategies. By cultivating a better understanding of how groups like permaculture, transition, or eco-congregations work, we thing new kinds of regional collaborations can be unlocked. Never heard of an Eco-Congregation? Transition town? No problem! On this site, we will be gathering interviews, statistics, and research into all kinds of sustainability, keep an eye out for more here soon!
 
-### [Design Style Guide](http://do.haufe-group.com/goodlooking-haufe/)
-A set of design kits and style guides for the Haufe brands: [Haufe](http://do.haufe-group.com/goodlooking-haufe/), [Lexware](http://do.haufe-group.com/goodlooking-lexware/), and [Haufe Academy](http://do.haufe-group.com/goodlooking-haufe-akademie/)
+### Participatory Workshops
+
+We love participatory workshops, and firmly believe that everyone has an important role to play in the research process? Curious to know more about this style lf research? Here are a few of our favorite books:
+
+- Open Space Technology: A User's Guide

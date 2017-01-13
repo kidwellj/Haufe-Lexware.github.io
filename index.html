@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Dev Blog by Haufe Group"
+description: "creating new local low-carbon collaborations across Scotland"
 ---
 
 {% for post in paginator.posts %}
@@ -24,7 +24,8 @@ description: "Dev Blog by Haufe Group"
     {% else %}
       {% assign author_name = site.title %}
     {% endif %}
-    <p class="post-meta">Posted by {{ author_name }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <span class="post-meta">Posted by {{ author_name }} on {{ post.date | date: "%B %-d, %Y" }}</span>
+      <p itemprop="description">{{ post.excerpt | strip_html }}</p>
 </div>
 <hr>
 {% endfor %}
