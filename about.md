@@ -24,4 +24,4 @@ Professor of Ethics at the University of Edinburgh
 
 ### Contact us
 
-[j.kidwell](mailto:info@haufe-lexware.com)
+[j.kidwell](mailto:j.kidwell@bham.ac.uk)
