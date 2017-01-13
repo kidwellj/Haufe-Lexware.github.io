@@ -14,12 +14,7 @@ If you want to find out more about using `github-pages` for blogging or want to 
 * [Github pages powered by Jekyll](https://github.com/jekyll/jekyll/wiki/sites)
 * Liquid Documentation [here](https://docs.shopify.com/themes/liquid-documentation/basics) and [here](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 
-Please note to set the proxy if you are working from within the Haufe Intranet
-
-    set HTTP_PROXY=http://10.12.1.236:8083/
-    set HTTPS_PROXY=http://10.12.1.236:8083/
-
-If you find bugs or issues you can [open an issue](https://github.com/Haufe-Lexware/Haufe-Lexware.github.io/issues/new) describing the problem that you're looking to resolve and we'll go from there.
+If you find bugs or issues you can [open an issue](https://github.com/kidwellj/findcommonground.uk/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
 ### Setting up jekyll on Mac OS X
 
