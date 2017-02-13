@@ -6,7 +6,7 @@
 title: 
 header-img: images/pexels-photo-113338_800.jpeg
 email: j.kidwell@bham.ac.uk
-copyright_name: Haufe-Lexware GmbH &amp; Co.KG
+copyright_name: 
 description: finding common ground 2017
 headline: finding common ground
 
@@ -34,10 +34,6 @@ footer-links:
   googleplus: # anything in your profile username that comes after plus.google.com/
   slideshare: 
 
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: 

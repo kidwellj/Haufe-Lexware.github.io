@@ -5,6 +5,7 @@ description: "creating new local low-carbon collaborations across Scotland"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+    {% comment %}
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
@@ -25,7 +26,34 @@ description: "creating new local low-carbon collaborations across Scotland"
       {% assign author_name = site.title %}
     {% endif %}
     <span class="post-meta">Posted by {{ author_name }} on {{ post.date | date: "%B %-d, %Y" }}</span>
-      <p itemprop="description">{{ post.excerpt | strip_html }}</p>
+    <p itemprop="description">{{ landing.excerpt | strip_html }}</p>
+    {% endcomment %}
+
+    <h3>There are hundreds of groups in Scotland making progress and creating change on environmental issues.</h3>
+    <div class="center"><img src="images/churches_poi.png"></div>
+    <p>But these groups often work in isolation.</p>
+
+    <p>Our research team would like to invite you to learn with us about the diversity of approaches in Scotlands grassroots.</p>
+
+    <h1>Let us seek to find common ground!</h1>
+<br />
+<hr />
+<br />
+<h2>Here's how you can get involved:</h2>
+    <h4><a href="http://findcommonground.uk/workshops">Host a workshop</a></h4>
+    <br />
+    <h4>Learn about:</h4>
+    <ul>
+    <li><a href="http://transitionscotland.weebly.com">Transition</a></li>
+    <li><a href="https://scotland.permaculture.org.uk">Permaculture</a></li>
+    <li><a href="http://www.ecocongregationscotland.org">Eco-Congregation Scotland</a></li>
+    <li><a href="http://dtascot.org.uk">Development Trusts</a></li>
+    <li><a href="http://scottishcommunitiescan.org.uk">Scottish Communities Climate Action Network</a></li>
+    <li><a href="http://www.scottishcommunityalliance.org.uk/about">Other members of the Scottish Community Alliance</a>
+    </ul>
+    <br />
+    <h4><a href="http://findcommonground/conference/">Attend our conference on "Faith Communities and Environmental Activism" in May 2017</a></h4>
+
 </div>
 <hr>
 {% endfor %}
